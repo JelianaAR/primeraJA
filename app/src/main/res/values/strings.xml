@@ -1,17 +1,8 @@
 <resources>
     <string name="app_name">primeraJA</string>
     <string name="btn_enviar">Cambiar fuente</string>
-    <string name="texto">Escribe</string>
-    <string name="radioButton_roboto">Roboto</string>
-    <string name="radioButton_dmserif">DM Serif</string>
-    <string name="radioButton_doto">Doto</string>
-    <string name="radioButton_rowdies">Rowdies</string>
+    <string name="btn_color">Cambiar color</string>
     <string name="escribe">Escribe</string>
-    <string name="desc_radio_group">Selecciona una opción de fuente</string>
-    <string name="fuente_roboto">roboto</string>
-    <string name="fuente_dmserif">dmserif</string>
-    <string name="fuente_doto">doto</string>
-    <string name="fuente_rowdies">rowdies</string>
 
 
 
